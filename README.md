@@ -1,17 +1,17 @@
-# 👋 Hi, I'm **Bhavaneeshwari H**
+#  Hi, I'm **Bhavaneeshwari H**
 
 📧 **Email:** bhavaneeshwari1110@gmail.com | 24mv02@psgtech.ac.in  
 📱 **Mobile:** +91-9025446453  
 
 ---
 
-## 🚀 Profile Summary
+## Profile Summary
 
 Graduate student in **VLSI Design** with strong expertise in **RTL Design**, **SoC Verification**, and **Physical Design flows**. Skilled in **FPGA prototyping**, **SoC integration**, **TLM/SystemVerilog-based testbenches**, and **ASIC design optimization**. Passionate about hardware design, embedded systems, and verification methodologies.
 
 ---
 
-## 🛠 Technical Skills
+##  Technical Skills
 
 | Category | Skills |
 |---------|--------|
@@ -22,7 +22,7 @@ Graduate student in **VLSI Design** with strong expertise in **RTL Design**, **S
 
 ---
 
-## 🏢 Industrial Project (Ongoing)
+##  Industrial Project (Ongoing)
 ### 🔹 **FPGA–PC Communication Framework – Texas Instruments**
 
 - Implementing **MicroBlaze-based command execution system** to run TI APIs on FPGA.
@@ -30,21 +30,21 @@ Graduate student in **VLSI Design** with strong expertise in **RTL Design**, **S
 
 ---
 
-## 📂 Academic Projects
+##  Academic Projects
 
-### 1️⃣ FPGA-Based Stepper Motor Controller IP
+### 1️ FPGA-Based Stepper Motor Controller IP
 - Designed and implemented a **custom Stepper Motor Controller IP** in Verilog.
 - Integrated into **Zynq SoC using AXI4-Lite slave interface (Vivado IP Integrator)**.
 - Successfully tested using **C applications in Vitis IDE** on FPGA board.
 
-### 2️⃣ TLM-Based Verification of Arbiter
+### 2️ TLM-Based Verification of Arbiter
 - Developed a **layered SystemVerilog testbench using TLM methodology**.
 - Implemented **generator, driver, monitor, and scoreboard** using mailbox communication.
 - Included **randomized transactions, functional coverage, and scoreboarding** to verify arbiter grant logic.
 
 ---
 
-## 🎓 Education
+##  Education
 
 | Degree | Institution | Year | Performance |
 |--------|-------------|------|-------------|
@@ -55,7 +55,7 @@ Graduate student in **VLSI Design** with strong expertise in **RTL Design**, **S
 
 ---
 
-## 💡 Interests
+##  Interests
 - Digital Design & RTL Coding  
 - Functional Verification  
 - FPGA Prototyping  
@@ -64,11 +64,11 @@ Graduate student in **VLSI Design** with strong expertise in **RTL Design**, **S
 
 ---
 
-## 📬 Let’s Connect!
+##  Let’s Connect!
 
 If you're working on **FPGA-based systems, verification environments, or ASIC/SoC design**, feel free to reach out!  
 I'm always excited to collaborate on **innovative hardware design projects**.
 
 --- 
 
-⭐ _Thank you for visiting my GitHub!_  
+ _Thank you for visiting my GitHub!_  
